@@ -1,0 +1,15 @@
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\bin\Debug\net6.0\Raumschiffspiel.exe
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\bin\Debug\net6.0\Raumschiffspiel.deps.json
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\bin\Debug\net6.0\Raumschiffspiel.runtimeconfig.json
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\bin\Debug\net6.0\Raumschiffspiel.dll
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\bin\Debug\net6.0\Raumschiffspiel.pdb
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\Raumschiffspiel.csproj.AssemblyReference.cache
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\Raumschiffspiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\Raumschiffspiel.AssemblyInfoInputs.cache
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\Raumschiffspiel.AssemblyInfo.cs
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\Raumschiffspiel.csproj.CoreCompileInputs.cache
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\Raumschiffspiel.dll
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\refint\Raumschiffspiel.dll
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\Raumschiffspiel.pdb
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\Raumschiffspiel.genruntimeconfig.cache
+C:\Users\zero9\RiderProjects\Raumschiffspiel\Raumschiffspiel\obj\Debug\net6.0\ref\Raumschiffspiel.dll
