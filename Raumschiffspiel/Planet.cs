@@ -35,7 +35,7 @@ public class Planet
 
     public string LadungenToString()
     {
-        var result = "---------\nIhre Ladungen:";
+        var result = "---------\nLadungen vom Planeten:";
 
         for (var i = 0; i < Ladungen.Count; i++)
         {

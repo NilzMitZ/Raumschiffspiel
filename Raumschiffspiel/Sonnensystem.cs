@@ -23,8 +23,11 @@ public class Sonnensystem
         var alexiaNova = new Kapitaen("Alexia Nova", 10, 10);
         var admiralZenith = new Kapitaen("Admiral Zenith Nightfall", 5, 5);
 
-        raumschiffe.Add(new Raumschiff("Eos Nova", 0, 0, alexiaNova, 100, 50, 5, 10, 35));
-        raumschiffe.Add(new Raumschiff("Aurora Quest", 1, 1, admiralZenith, 50, 20, 20, 40, 10));
+        var eosNova = new Raumschiff("Eos Nova", 0, 0, alexiaNova, 100, 50, 5, 10, 35);
+        var auroraQuest = new Raumschiff("Aurora Quest", 1, 1, admiralZenith, 50, 20, 20, 40, 10);
+
+        raumschiffe.Add(eosNova);
+        raumschiffe.Add(auroraQuest);
 
         var eigenesRaumschiff = raumschiffe.First();
 
